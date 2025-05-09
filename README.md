@@ -13,4 +13,4 @@ A simple Node.js app with a CI/CD pipeline using GitHub Actions.
 docker build -t ci-cd-node-app .
 
 # Run the container
-docker run -p 3000:3000 ci-cd-node-app
+docker run -p -d 3000:3000 ci-cd-node-app
