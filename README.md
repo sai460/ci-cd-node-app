@@ -1,4 +1,4 @@
-# ci-cd-node-app
+# Sample ci-cd-node-app
 
 A simple Node.js app with a CI/CD pipeline using GitHub Actions.
 
